@@ -30,4 +30,6 @@ print "A falta de amor , programar en python mejor :3"
 
 #3sto lo subio gerardo
 #segundo commit
-#tercero por la pc de toño
+#tercero por la pc de toÃ±o
+
+jajaja
